@@ -1,12 +1,12 @@
-name: flagsmith_storage_sharedpreferences
+name: flagsmith_storage
 description: >-
   Persistant storage for Flagsmith Client  https://www.flagsmith.com/, Flagsmith
   is 100% Open Source. Host yourself or let us take care of the hosting.
 
-version: 3.0.0-beta.3
-homepage: https://github.com/Flagsmith/flagsmith-flutter-client
-repository: https://github.com/Flagsmith/flagsmith-flutter-client
-issue_tracker: https://github.com/Flagsmith/flagsmith-flutter-client/issues
+version: 3.0.0
+homepage: https://github.com/Flagsmith/flagsmith-flutter-sharedpreferences
+repository: https://github.com/Flagsmith/flagsmith-flutter-sharedpreferences
+issue_tracker: https://github.com/Flagsmith/flagsmith-flutter-sharedpreferences/issues
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
@@ -14,7 +14,7 @@ environment:
 
 dependencies:
   collection: ">=1.15.0 <1.18.0"
-  flagsmith_core: ^3.0.0-beta.3
+  flagsmith_flutter_core: ^2.3.0
   flutter:
     sdk: flutter
   shared_preferences: ">=2.0.10 <=2.1.0"

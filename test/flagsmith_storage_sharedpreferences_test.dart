@@ -1,6 +1,6 @@
-import 'package:flagsmith_core/flagsmith_core.dart';
+import 'package:flagsmith_flutter_core/flagsmith_flutter_core.dart';
 import 'package:collection/collection.dart';
-import 'package:flagsmith_storage_sharedpreferences/sharedpreferences_store.dart';
+import 'package:flagsmith_storage/flagsmith_storage_sharedpreferences.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
