@@ -99,13 +99,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.2"
-  flagsmith_core:
+  flagsmith_flutter_core:
     dependency: "direct main"
     description:
-      name: flagsmith_core
+      name: flagsmith_flutter_core
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.0-beta.3"
+    version: "2.3.0"
   flutter:
     dependency: "direct main"
     description: flutter
