@@ -1,8 +1,8 @@
 name: Analyze, test and publish
 on:
-  create:
-    ref-type:
-      - 'tag'
+  push:
+    tags:
+      - '*'
 
 jobs:
   analyze:
