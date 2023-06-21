@@ -1,3 +1,5 @@
+## 4.0.0
+* bump version, core
 ## 3.0.0-beta.3
 * bump version, core
 ## 3.0.0-beta.1
